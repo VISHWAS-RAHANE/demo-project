@@ -1,0 +1,8 @@
+/* Add this CSS to adjust the placement of the Navbar.Toggle */
+@media (max-width: 991.98px) {
+    .navbar-toggler {
+      order: -1; /* Move the Navbar.Toggle to the left */
+      margin-right: 15px; /* Add some right margin for spacing */
+    }
+  }
+  
